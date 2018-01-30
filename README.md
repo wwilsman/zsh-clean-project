@@ -32,7 +32,7 @@ AUTO_CLEAN_PROJECT_FILE_PATTERNS=(
 )
 
 # Default path patterns to ignore (project root relative)
-AUTO_CLEAN_PROJECT_FILE_PATTERNS=(
+AUTO_CLEAN_PROJECT_IGNORE_PATHS=(
   "./node_modules/*"
   "./bower_components/*"
 )
